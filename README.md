@@ -1,4 +1,4 @@
-# torrent-cli
+# easy-torrent
 
 It will get torrents from you right in your terminal
 
