@@ -1,6 +1,6 @@
 # easy-torrent
 
-It will get torrents from you right in your terminal
+It will get torrents for you right in your terminal
 
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
 <b><a href = "https://www.npmjs.com/package/easy-torrent"> npm: </a><b> 
