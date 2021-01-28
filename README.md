@@ -12,7 +12,8 @@ It will get torrents from you right in your terminal
 # Usage <img src="https://cdn.discordapp.com/emojis/757399420319825950.png?v=1" alt = "✏" width="35px">
 
 It is a very easy to use cli. <br>
-Just type "torrent" and you will be guided your way to get any torrent you would ever need.
+Just type "torrent" and you will be guided your way to get any torrent you would ever need. <br>
+
 <img src = "https://github.com/TheRamann/easy-torrent/blob/main/Md%20Files/2021-01-27%2007_51_38-Command%20Prompt%20-%20torrent.png?raw=true" width = "300">
 <img src = "https://github.com/TheRamann/easy-torrent/blob/main/Md%20Files/2021-01-27%2007_52_30-Command%20Prompt.png?raw=true" width = "600">
 
