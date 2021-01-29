@@ -14,8 +14,8 @@ It will get torrents for you right in your terminal
 It is a very easy to use cli. <br>
 Just type "torrent" and you will be guided your way to get any torrent you would ever need. <br>
 
-<img src = "https://github.com/TheRamann/easy-torrent/blob/main/Md%20Files/2021-01-27%2007_51_38-Command%20Prompt%20-%20torrent.png?raw=true" width = "200"><br>
-<img src = "https://github.com/TheRamann/easy-torrent/blob/main/Md%20Files/2021-01-27%2007_52_30-Command%20Prompt.png?raw=true" width = "300"><br>
+<img src = "https://github.com/TheRamann/easy-torrent/blob/main/Md%20Files/2021-01-27%2007_51_38-Command%20Prompt%20-%20torrent.png?raw=true" width = "300"><br>
+<img src = "https://github.com/TheRamann/easy-torrent/blob/main/Md%20Files/2021-01-27%2007_52_30-Command%20Prompt.png?raw=true" width = "550"><br>
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
