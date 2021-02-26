@@ -1,12 +1,22 @@
 {
   "name": "easy-torrent",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "It will get torrents from you right in your terminal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "torrent", "movies", "games", "shows", "game", "movie", "show", "magnet"],
+  "keywords": [
+    "cli",
+    "torrent",
+    "movies",
+    "games",
+    "shows",
+    "game",
+    "movie",
+    "show",
+    "magnet"
+  ],
   "author": "TheRamann",
   "license": "ISC",
   "bin": {
@@ -16,5 +26,13 @@
     "inquirer": "^7.3.3",
     "torrent-search-api": "^2.1.3"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRamann/easy-torrent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRamann/easy-torrent/issues"
+  },
+  "homepage": "https://github.com/TheRamann/easy-torrent#readme"
 }
