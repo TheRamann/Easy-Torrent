@@ -8,7 +8,7 @@ It will get torrents for you right in your terminal
 <code> npm i -g easy-torrent </code>
 <p><b><a href = "https://classic.yarnpkg.com/en/package/easy-torrent"> yarn: </a></p>
 <code>yarn add easy-torrent </code>
-<p><p><b><a href = "https://www.npmjs.com/package/easy-torrent"> npx: </a> (no installation required) <b> 
+<p><p><p><b><a href = "https://www.npmjs.com/package/easy-torrent"> npx: </a> (no installation required) <b> 
 <p>
 <code> npx easy-torrent </code>
             
