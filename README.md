@@ -59,7 +59,7 @@ PS D:\Desktop> torrent
     peers: 3,
     size: '258.3 MB',
     .....
-    (The result is shortened for the website, the result will include more torrents than this)
+    ("The result is shortened for the website, the result will include more torrents than this")
 ```
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
