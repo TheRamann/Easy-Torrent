@@ -17,7 +17,7 @@ It will get torrents for you right in your terminal
 
 It is a very easy to use cli. <br>
 Just type "torrent" or "npx easy-torrent" and you will be guided your way to get any torrent you would ever need. <br>
-```cmd
+```powershell
 PS D:\Desktop> torrent
 ? Choose the torrent provider (Use arrow keys)
 > ThePirateBay
@@ -31,7 +31,7 @@ PS D:\Desktop> torrent
 ```
 
 Choose the provider and type the name of torrent you want. Result will look like this
-```cmd
+```powershell
 PS D:\Desktop> torrent
 ? Choose the torrent provider ThePirateBay
 ? Which torrent do you want? shingeki no kyojin
