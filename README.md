@@ -6,9 +6,13 @@ It will get torrents for you right in your terminal
 <b><a href = "https://www.npmjs.com/package/easy-torrent"> npm: </a><b> 
 <p>
 <code> npm i -g easy-torrent </code>
-    <p><b><a href = "https://classic.yarnpkg.com/en/package/easy-torrent"> yarn: </a></p>
-        <code>yarn add easy-torrent </code>
-
+<p><b><a href = "https://classic.yarnpkg.com/en/package/easy-torrent"> yarn: </a></p>
+<code>yarn add easy-torrent </code>
+<p><p><b><a href = "https://www.npmjs.com/package/easy-torrent"> npx: </a> (no installation required) <b> 
+<p>
+<code> npx easy-torrent </code>
+            
+            
 # Usage <img src="https://cdn.discordapp.com/emojis/757399420319825950.png?v=1" alt = "✏" width="35px">
 
 It is a very easy to use cli. <br>
