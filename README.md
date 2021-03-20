@@ -1,4 +1,4 @@
-# easy-torrent
+# Easy-Torrent
 
 It will get torrents for you right in your terminal
 
