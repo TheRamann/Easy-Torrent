@@ -1,22 +1,22 @@
-# Easy-Torrent
+# Torrent-Cli
 
 It will get torrents for you right in your terminal
 
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
-<b><a href = "https://www.npmjs.com/package/easy-torrent"> npm: </a><b> 
+<b><a href = "https://www.npmjs.com/package/torrent-cli"> npm: </a><b> 
 <p>
-<code> npm i -g easy-torrent </code>
-<p><b><a href = "https://classic.yarnpkg.com/en/package/easy-torrent"> yarn: </a></p>
-<code>yarn add easy-torrent </code>
-<p><p><p><b><a href = "https://www.npmjs.com/package/easy-torrent"> npx: </a> (no installation required) <b> 
+<code> npm i -g torrent-cli </code>
+<p><b><a href = "https://classic.yarnpkg.com/en/package/torrent-cli"> yarn: </a></p>
+<code>yarn add torrent-cli </code>
+<p><p><p><b><a href = "https://www.npmjs.com/package/torrent-cli"> npx: </a> (no installation required) <b> 
 <p>
-<code> npx easy-torrent </code>
+<code> npx torrent-cli </code>
             
             
 # Usage <img src="https://cdn.discordapp.com/emojis/757399420319825950.png?v=1" alt = "✏" width="35px">
 
 It is a very easy to use cli. <br>
-Just type "torrent" or "npx easy-torrent" and you will be guided your way to get any torrent you would ever need. <br>
+Just type "torrent" or "npx torrent-cli" and you will be guided your way to get any torrent you would ever need. <br>
 ```powershell
 PS D:\Desktop> torrent
 ? Choose the torrent provider (Use arrow keys)
@@ -67,7 +67,7 @@ PS D:\Desktop> torrent
 AntiVirus often creates an error. The error might look like this
 
 ```powershell
-PS D:\Easy-Torrent> torrent
+PS D:\torrent-cli> torrent
 ? Choose the torrent provider ThePirateBay
 ? Which torrent do you want? Justice League
 OperationalError: write EPROTO 20020:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:332:
