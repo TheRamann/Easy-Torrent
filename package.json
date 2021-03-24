@@ -1,6 +1,6 @@
 {
   "name": "easy-torrent",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "It will get torrents from you right in your terminal",
   "main": "index.js",
   "scripts": {
