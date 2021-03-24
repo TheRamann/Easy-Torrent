@@ -62,6 +62,65 @@ PS D:\Desktop> torrent
     ("The result is shortened for the website, the result will include more torrents than this")
 ```
 
+# Common Errors <img src = "https://cdn.discordapp.com/emojis/788360740822056960.gif?v=1" alt = "😔👍" width = "30">
+
+AntiVirus often creates an error. The error might look like this
+
+```powershell
+PS D:\Easy-Torrent> torrent
+? Choose the torrent provider ThePirateBay
+? Which torrent do you want? Justice League
+OperationalError: write EPROTO 20020:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:332:
+
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+  cause: Error: write EPROTO 20020:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:332:
+
+      at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16) {
+    errno: -4046,
+    code: 'EPROTO',
+    syscall: 'write'
+  },
+  isOperational: true,
+  errno: -4046,
+  code: 'EPROTO',
+  syscall: 'write'
+}
+undefined
+
+```
+The error can be easily tackled by disabling AntiVirus while using it.
+Results after disabling AntiVirus are given below
+```powershell
+PS D:\Ramann\Programming And Stuff\NodeJS> torrent
+? Choose the torrent provider ThePirateBay
+? Which torrent do you want? justice league
+[
+  {
+    provider: 'ThePirateBay',
+    id: '42122803',
+    title: 'Justice League Snyders Cut 2021 1080p HDRip X264-WORM',
+    time: 'Wed, 17 Mar 2021 08:31:44 GMT',
+    seeds: 937,
+    peers: 130,
+    size: '7.5 GB',
+    magnet: 'magnet:?xt=urn:btih:449EDF3CDE94B83EA689FA82742132174FA4543F&dn=undefined&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce',
+    numFiles: 3,
+    status: 'vip',
+    category: '207',
+    imdb: ''
+  },
+  {
+    provider: 'ThePirateBay',
+    id: '42122861',
+    title: 'Zack.Snyders.Justice.League.2021.REPACK.720p.HDRip.1200MB.x264-G',
+    time: 'Wed, 17 Mar 2021 09:43:02 GMT',
+    seeds: 637,
+    peers: 74,
+    size: '1.3 GB',
+        .....
+    ("The result is shortened for the website, the result will include more torrents than this")
+```
+
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
 Support the creator here
