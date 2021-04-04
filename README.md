@@ -88,8 +88,8 @@ OperationalError: write EPROTO 20020:error:1408F10B:SSL routines:ssl3_get_record
 undefined
 
 ```
-The error can be easily tackled by disabling AntiVirus while using it.
-Results after disabling AntiVirus are given below
+The error can be easily tackled by disabling Browsing Protection in your AntiVirus while using it. <br>
+Results after disabling Browsing Protection in your AntiVirus are given below
 ```powershell
 PS D:\Ramann\Programming And Stuff\NodeJS> torrent
 ? Choose the torrent provider ThePirateBay
@@ -120,6 +120,7 @@ PS D:\Ramann\Programming And Stuff\NodeJS> torrent
         .....
     ("The result is shortened for the website, the result will include more torrents than this")
 ```
+You can enable Browsing Protection in your AntiVirus after usage
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
