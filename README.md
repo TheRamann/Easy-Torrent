@@ -1,6 +1,6 @@
 # Easy-Torrent
 
-It will get torrents for you right in your terminal <br>
+It will get torrents for you right in your terminal <br> <br>
 If you don't like CLIs, then checkout <a href = "https://github.com/TheRamann/torrent-gui">Torrent-Gui</a>
 
 
