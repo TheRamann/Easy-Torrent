@@ -18,46 +18,63 @@ It will get torrents for you right in your terminal
 It is a very easy to use cli. <br>
 Just type "torrent" or "npx easy-torrent" and you will be guided your way to get any torrent you would ever need. <br>
 ```powershell
-PS D:\Desktop> torrent
-? Choose the torrent provider (Use arrow keys)
+PS D:\Desktop> npx easy-torrent
+npx: installed 228 in 23.908s
+
+███████╗░█████╗░░██████╗██╗░░░██╗  ████████╗░█████╗░██████╗░██████╗░███████╗███╗░░██╗████████╗
+██╔════╝██╔══██╗██╔════╝╚██╗░██╔╝  ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝████╗░██║╚══██╔══╝
+█████╗░░███████║╚█████╗░░╚████╔╝░  ░░░██║░░░██║░░██║██████╔╝██████╔╝█████╗░░██╔██╗██║░░░██║░░░
+██╔══╝░░██╔══██║░╚═══██╗░░╚██╔╝░░  ░░░██║░░░██║░░██║██╔══██╗██╔══██╗██╔══╝░░██║╚████║░░░██║░░░
+███████╗██║░░██║██████╔╝░░░██║░░░  ░░░██║░░░╚█████╔╝██║░░██║██║░░██║███████╗██║░╚███║░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░  ░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝░░░╚═╝░░░
+
+? Choose the torrent provider
+  1337x
+  Rarbg
+  Eztv
 > ThePirateBay
   Yts
   KickassTorrents
   Torrent9
-  Torrentz2
-  Limetorrents
-  TorrentProject
 (Move up and down to reveal more choices)
 ```
 
 Choose the provider and type the name of torrent you want. Result will look like this
 ```powershell
-PS D:\Desktop> torrent
+PS D:\Desktop> easy-torrent
+
+███████╗░█████╗░░██████╗██╗░░░██╗  ████████╗░█████╗░██████╗░██████╗░███████╗███╗░░██╗████████╗
+██╔════╝██╔══██╗██╔════╝╚██╗░██╔╝  ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝████╗░██║╚══██╔══╝
+█████╗░░███████║╚█████╗░░╚████╔╝░  ░░░██║░░░██║░░██║██████╔╝██████╔╝█████╗░░██╔██╗██║░░░██║░░░
+██╔══╝░░██╔══██║░╚═══██╗░░╚██╔╝░░  ░░░██║░░░██║░░██║██╔══██╗██╔══██╗██╔══╝░░██║╚████║░░░██║░░░
+███████╗██║░░██║██████╔╝░░░██║░░░  ░░░██║░░░╚█████╔╝██║░░██║██║░░██║███████╗██║░╚███║░░░██║░░░
+╚══════╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░  ░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝░░░╚═╝░░░
+
 ? Choose the torrent provider ThePirateBay
-? Which torrent do you want? shingeki no kyojin
+? Which torrent do you want? Godzilla vs. Kong
 [
   {
     provider: 'ThePirateBay',
-    id: '41835283',
-    title: 'Attack.on.Titan.Shingeki.no.Kyojin.S04E11.E70.Eng.Sub.1080p.x264',
-    time: 'Mon, 22 Feb 2021 00:44:18 GMT',
-    seeds: 70,
-    peers: 0,
-    size: '255.6 MB',
-    magnet: 'magnet:?xt=urn:btih:95F2C0A408D64BFA4A825D829B35C46006962A95&dn=undefined&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce',
-    numFiles: 1,
-    status: 'trusted',
-    category: '208',
-    imdb: 'tt2560140'
+    id: '10368712',
+    title: 'King.Kong.Vs.Godzilla.1963.1080p.BluRay.x264.3000th.Release-WaLM',
+    time: 'Mon, 16 Jun 2014 05:08:39 GMT',
+    seeds: 35,
+    peers: 16,
+    size: '7.2 GB',
+    magnet: 'magnet:?xt=urn:btih:762E7CEE292A6BEEB18C8A686F105D8C93072052&dn=undefined&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce',
+    numFiles: 4,
+    status: 'vip',
+    category: '207',
+    imdb: 'tt0056142'
   },
   {
     provider: 'ThePirateBay',
-    id: '41799242',
-    title: 'Attack.on.Titan.Shingeki.no.Kyojin.S04E10.E68.Eng.Sub.1080p.x264',
-    time: 'Mon, 15 Feb 2021 03:11:06 GMT',
-    seeds: 56,
-    peers: 3,
-    size: '258.3 MB',
+    id: '6237982',
+    title: 'Godzilla vs King Kong (1963) dvd rip eng',
+    time: 'Sat, 12 Mar 2011 15:18:38 GMT',
+    seeds: 13,
+    peers: 1,
+    size: '1.4 GB',
     .....
     ("The result is shortened for the website, the result will include more torrents than this")
 ```
