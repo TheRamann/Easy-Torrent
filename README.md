@@ -110,7 +110,7 @@ undefined
 The error can be easily tackled by disabling Browsing Protection in your AntiVirus while using it. <br>
 Results after disabling Browsing Protection in your AntiVirus are given below
 ```powershell
-PS D:\Ramann\Programming And Stuff\NodeJS> torrent
+PS D:\Easy-Torrent> torrent
 ? Choose the torrent provider ThePirateBay
 ? Which torrent do you want? justice league
 [
