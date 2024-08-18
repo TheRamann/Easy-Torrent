@@ -1,7 +1,7 @@
 # Easy-Torrent
 
 It will get torrents for you right in your terminal <br> <br>
-If you don't like CLIs, then checkout <a href = "https://github.com/TheRamann/torrent-gui">Torrent-Gui</a>
+If you don't like CLIs, then checkout <a href = "[https://github.com/TheRamann/torrent-gui](https://github.com/TheRamann/easy-torrent-gui)">easy-torrent-gui</a>
 
 
 # Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
